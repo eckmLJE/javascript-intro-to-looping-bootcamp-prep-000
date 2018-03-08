@@ -16,8 +16,10 @@ function whileLoop(n) {
   console.log("done");
 }
 
+function maybeTrue()
+
 function doWhileLoop(a) {
   do {
     a.shift();
-  }
+  } while 
 }
