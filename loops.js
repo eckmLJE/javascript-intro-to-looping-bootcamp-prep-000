@@ -8,3 +8,6 @@ function forLoop(a) {
   }
 }
 
+function whileLoop() {
+  
+}
