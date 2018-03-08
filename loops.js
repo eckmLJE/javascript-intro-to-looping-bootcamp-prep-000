@@ -11,9 +11,8 @@ function forLoop(a) {
 function whileLoop(n) {
   while (n >= 0) {
     console.log(n);
-    if (n === 0) {
-      console.log("done");
-    } else {n = n-1;}
+    n = n-1;
   }
+  console.log("done");
 }
 
